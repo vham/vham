@@ -12,8 +12,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-YAML   21 mins         ██████████████▒░░░░░░░░░░   57.48 % 
-PHP    15 mins         ██████████▓░░░░░░░░░░░░░░   42.52 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
