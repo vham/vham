@@ -12,7 +12,8 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP    8 mins          ████████████████████▓░░░░   82.48 % 
+Text   1 min           ████▒░░░░░░░░░░░░░░░░░░░░   17.52 % 
 ```
 <!--END_SECTION:waka-->
 
