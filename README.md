@@ -13,7 +13,8 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP   25 mins         █████████████████████████   100.00 %
+Markdown   2 hrs 25 mins   █████████████████████▒░░░   85.21 %
+PHP        25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.79 %
 ```
 
 <!--END_SECTION:waka-->
