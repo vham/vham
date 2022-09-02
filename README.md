@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-CSV      2 mins          █████████████▒░░░░░░░░░░░   53.43 %
-Python   2 mins          ███████████▓░░░░░░░░░░░░░   46.57 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
