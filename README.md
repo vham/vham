@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-PHP    19 mins         ████████████████████░░░░░   80.47 %
-Bash   4 mins          █████░░░░░░░░░░░░░░░░░░░░   19.53 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
