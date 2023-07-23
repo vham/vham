@@ -13,7 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML   44 mins         █████████████████████████   100.00 %
+YAML   17 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
