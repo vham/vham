@@ -13,8 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-SQL    18 mins         █████████████████▒░░░░░░░   68.68 %
-Bash   8 mins          ███████▓░░░░░░░░░░░░░░░░░   31.32 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
