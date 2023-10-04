@@ -13,10 +13,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-INI        6 mins          █████████▓░░░░░░░░░░░░░░░   38.08 %
-Bash       4 mins          ███████░░░░░░░░░░░░░░░░░░   28.52 %
-Markdown   4 mins          ██████▓░░░░░░░░░░░░░░░░░░   27.17 %
-SQL        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.24 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
